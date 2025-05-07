@@ -146,7 +146,7 @@ const Navbar: React.FC = () => {
               variant="outline"
               className="p-5"
               onClick={() => {
-                window.location.href = "/login";
+                window.location.href = "#/login";
               }}
             >
               Log in
@@ -155,7 +155,7 @@ const Navbar: React.FC = () => {
               variant="default"
               className="p-5 bg-[#2C3B8B] hover:bg-[#1F2B6B]"
               onClick={() => {
-                window.location.href = "/signup";
+                window.location.href = "#/signup";
               }}
             >
               Sign up
@@ -276,7 +276,7 @@ const Navbar: React.FC = () => {
                     variant="outline"
                     className="w-full justify-center p-5"
                     onClick={() => {
-                      window.location.href = "/login";
+                      window.location.href = "#/login";
                     }}
                   >
                     Log in
@@ -285,7 +285,7 @@ const Navbar: React.FC = () => {
                     variant="default"
                     className="w-full justify-center p-5 bg-[#2C3B8B] hover:bg-[#1F2B6B]"
                     onClick={() => {
-                      window.location.href = "/signup";
+                      window.location.href = "#/signup";
                     }}
                   >
                     Sign up
