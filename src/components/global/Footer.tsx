@@ -171,7 +171,7 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin size={20} className="mr-3 mt-1 flex-shrink-0" />
                 <span className="text-indigo-200">
-                  123 Healthcare Avenue, Lagos, Nigeria
+                  23B Healthcare Avenue, Lagos, Nigeria
                 </span>
               </li>
               <li className="flex items-center">
@@ -180,7 +180,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="mr-3 flex-shrink-0" />
-                <span className="text-indigo-200">contact@mediconnect.com</span>
+                <span className="text-indigo-200">contact@carepadi.com</span>
               </li>
             </ul>
           </div>
